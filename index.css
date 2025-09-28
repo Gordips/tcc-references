@@ -1,9 +1,33 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
 h1{
     font-weight: bold;
+}
+#sub{
+    font-size: large;
+}
+.titu{
+    color: white;
     text-align: center;
+    background-color: #582f88;
+    padding: 2%;
+    margin: 0px;
 }
-p{
-    margin:4%;
+.ref{
+    margin-top:4%;
     font-size: larger;
-
+    border: solid #582f88;
+    padding: 2%;
+    border-radius: 15px;
+    border-width: 1px;
+    width: 90%;
+    box-shadow: 2px 2px 20px  #494288;
+    color: white;
+    background-color:  #49428846;
 }
+a{
+    color: rgba(188, 140, 202, 0.877);
+}
+
