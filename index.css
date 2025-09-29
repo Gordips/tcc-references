@@ -5,29 +5,47 @@ body{
 h1{
     font-weight: bold;
 }
+h1{
+    color:#5e09c0;
+    text-align: center;
+}
+#desc{
+    color: white;
+    text-align: center; 
+    margin: 0px 25%;
+    font-size: x-large;
+}
 #sub{
     font-size: large;
 }
 .titu{
     color: white;
     text-align: center;
-    background-color: #582f88;
+    background-color: #4a1d96;
     padding: 2%;
     margin: 0px;
+}
+.num{
+    background-color: #4a1d96;
+    padding: 3px;
+    width: 16px;
+    padding-left: 10px;
+    border-radius: 15px;
 }
 .ref{
     margin-top:4%;
     font-size: larger;
-    border: solid #582f88;
-    padding: 2%;
+    border: solid #4a1d96;
+    padding: 0px 1% 1% 1%;
     border-radius: 15px;
     border-width: 1px;
     width: 90%;
     box-shadow: 2px 2px 20px  #494288;
     color: white;
-    background-color:  #49428846;
+    background-color: #161e2e;
 }
 a{
     color: rgba(188, 140, 202, 0.877);
 }
+
 
