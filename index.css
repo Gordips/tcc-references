@@ -18,7 +18,7 @@ h1{
     color: white;
     text-align: center;
     background-color: #4a1d96;
-    padding: 2%;
+    padding: 40px;
     margin: 0px;
 }
 #sub{
@@ -50,6 +50,7 @@ h1{
 a{
     color: rgba(188, 140, 202, 0.877);
 }
+
 
 
 
